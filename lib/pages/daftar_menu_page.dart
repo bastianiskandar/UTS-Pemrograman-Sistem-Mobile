@@ -27,7 +27,7 @@ class _DaftarMenuPageState extends State<DaftarMenuPage> {
     return Scaffold(
       appBar: AppBar(
         title: const CustomText(
-          text: 'Menu Kantin',
+          text: 'Iannn Canteen',
           fontSize: 20,
           fontWeight: FontWeight.bold,
           color: Colors.white,
@@ -40,7 +40,7 @@ class _DaftarMenuPageState extends State<DaftarMenuPage> {
           Padding(
             padding: const EdgeInsets.all(16),
             child: const CustomText(
-              text: 'Daftar Menu Tersedia',
+              text: 'Menu available',
               fontSize: 16,
               fontWeight: FontWeight.w600,
             ),
